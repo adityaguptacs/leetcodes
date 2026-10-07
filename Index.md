@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Detect Capital](./LeetCode/Easy/Detect%20Capital) - *Easy*
 - [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*
 - [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) - *Easy*
 - [Can Place Flowers](./LeetCode/Easy/Can%20Place%20Flowers) - *Easy*

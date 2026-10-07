@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) - *Easy*
 - [Can Place Flowers](./LeetCode/Easy/Can%20Place%20Flowers) - *Easy*
 - [Sort Array By Parity](./LeetCode/Easy/Sort%20Array%20By%20Parity) - *Easy*
 - [Goat Latin](./LeetCode/Easy/Goat%20Latin) - *Easy*

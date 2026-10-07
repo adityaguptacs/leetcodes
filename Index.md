@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*
 - [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) - *Easy*
 - [Can Place Flowers](./LeetCode/Easy/Can%20Place%20Flowers) - *Easy*
 - [Sort Array By Parity](./LeetCode/Easy/Sort%20Array%20By%20Parity) - *Easy*
